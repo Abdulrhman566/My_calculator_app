@@ -10,7 +10,7 @@ preview above the main display. Zero third-party dependencies.
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 <p align="center">
-  <img src="assets\images\Screenshot_20260914_041920_com.example.calculator_app[1].jpg" width="280" alt="Calculator screen" />
+  <img src="assets\images\Screenshot_20260914_041920_com.example.calculator_app[1].jpg" width="180" alt="Calculator screen" />
 </p>
 
 ---
